@@ -13,6 +13,5 @@ Write something to pipe to initiate wallpaper switching:
 echo next > /path/to/named/pipe
 ```
 
-Copyright © 2015 Alexey Kolpakov
-
-Distributed under DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
+##License
+This software is licensed under the [MIT license](LICENSE).
