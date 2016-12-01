@@ -1,4 +1,5 @@
-Switchable wallpapers (by timeout or shortcut).
+#Switchable wallpapers
+This application can switch wallpaper in wmii or i3 window manages by timeout or shortcut.
 Application is controlled by named pipe.
 
 Usage example:
