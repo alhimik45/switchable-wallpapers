@@ -1,4 +1,4 @@
-#Switchable wallpapers
+# Switchable wallpapers
 This application can switch wallpaper in wmii or i3 window manages by timeout or shortcut.
 Application is controlled by named pipe.
 
@@ -14,5 +14,5 @@ Write something to pipe to initiate wallpaper switching:
 echo next > /path/to/named/pipe
 ```
 
-##License
+## License
 This software is licensed under the [MIT license](LICENSE).
